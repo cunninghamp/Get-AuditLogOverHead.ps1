@@ -15,9 +15,20 @@ Results are output to CSV file.
 http://exchangeserverpro.com/much-database-storage-mailbox-audit-logging-consume/
 
 .NOTES
-Written By: Paul Cunningham
-Website:	http://exchangeserverpro.com
-Twitter:	http://twitter.com/exchservpro
+Written by: Paul Cunningham
+
+Find me on:
+
+* My Blog:	http://paulcunningham.me
+* Twitter:	https://twitter.com/paulcunningham
+* LinkedIn:	http://au.linkedin.com/in/cunninghamp/
+* Github:	https://github.com/cunninghamp
+
+For more Exchange Server tips, tricks and news
+check out Exchange Server Pro.
+
+* Website:	http://exchangeserverpro.com
+* Twitter:	http://twitter.com/exchservproo
 
 Change Log
 V1.00, 30/01/2015 - Initial version
