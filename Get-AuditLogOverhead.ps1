@@ -5,9 +5,6 @@ Get-AuditLogOverhead.ps1
 .DESCRIPTION 
 PowerShell script to report on the size of the mailbox audit logs stored in mailboxes in an Exchange Server organization.
 
-Use the ignorelist.txt file to specify any servers, DAGs, or databases you
-want the script to ignore (eg test/dev servers).
-
 .OUTPUTS
 Results are output to CSV file.
 
@@ -28,7 +25,7 @@ For more Exchange Server tips, tricks and news
 check out Exchange Server Pro.
 
 * Website:	http://exchangeserverpro.com
-* Twitter:	http://twitter.com/exchservproo
+* Twitter:	http://twitter.com/exchservpro
 
 Change Log
 V1.00, 30/01/2015 - Initial version
