@@ -20,9 +20,6 @@ Find me on:
 * Twitter:	https://twitter.com/paulcunningham
 * LinkedIn:	https://au.linkedin.com/in/cunninghamp/
 * Github:	https://github.com/cunninghamp
-
-Change Log
-V1.00, 30/01/2015 - Initial version
 #>
 
 #requires -version 2
